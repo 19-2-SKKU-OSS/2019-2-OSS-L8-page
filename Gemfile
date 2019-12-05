@@ -1,4 +1,4 @@
-source 'https://rubygems.org' #commit
+source 'https://rubygems.org' #source
 
 gem 'jekyll'
 
