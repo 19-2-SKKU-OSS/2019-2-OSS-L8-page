@@ -7,4 +7,4 @@ img: software.jpg # Add image post (optional)
 tags: [Pull request, free-python-game] # add tag
 ---
 
-Pull request 활동 작성
+Pull request 활동 작성하기
