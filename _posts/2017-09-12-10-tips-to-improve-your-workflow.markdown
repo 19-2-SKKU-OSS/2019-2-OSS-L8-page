@@ -12,6 +12,8 @@ tags: [Jekyll theme, static_page] # add tag
 #### Jekyll theme을 이용한 정적페이지 제작을 통해 깃허브 활용과 정적페이지 제작 과정을 익힐 수 있게 하고 HTML, Markdown 등의 마크업 언어로 글을 작성하며 원하는 페이지를 만들수 있습니다.
 
 # **Jekyll**
+![jekyllthemes](./assets/img/jekyllthemes.png)
+
 #### Jekyll은 개인, 프로젝트 또는 조직 사이트를위한 간단한 블로그 인식 정적 사이트 생성기입니다. GitHub의 공동 설립자 인 Tom Preston-Werner가 루비로 작성했으며 오픈 소스 MIT 라이센스에 따라 배포됩니다.
 
 # **정적 페이지(Static page)**
