@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 주제 선정 토의
+title: 주제 선정
 date: 2019-11-6 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: js-1.png # Add image post (optional)
@@ -25,7 +25,7 @@ tags: [hanguel.js, free python game] # add tag
 ## **2. Free python games**
 
 
-#### [Free python games ](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L8/wiki/free-python-games)
+#### [Free_python_games wiki](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L8/wiki/free-python-games)
 
 
 #### * 두번째로 결정된 주제
