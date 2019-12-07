@@ -9,7 +9,7 @@ tags: [Jekyll theme, ststic_page] # add tag
 ---
 
 
-![jekyll](./assets/img/jekyll.png)
+![jekyll](/assets/img/jekyll.png)
 
 #### Jekyll theme을 이용한 정적페이지 제작을 통해 깃허브 활용과 정적페이지 제작 과정을 익힐 수 있게 하고 HTML, Markdown 등의 마크업 언어로 글을 작성하며 원하는 페이지를 만들수 있습니다.
 
