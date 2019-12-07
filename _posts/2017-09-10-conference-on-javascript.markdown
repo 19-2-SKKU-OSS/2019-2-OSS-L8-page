@@ -14,7 +14,7 @@ tags: [hanguel.js, free python game] # add tag
 ## **Hanguel.js**
 
 
-![markdown]({{site.baseurl}}/assets/img/hanguel.png)
+![hanguel]({{site.baseurl}}/assets/img/hanguel.png)
 #### (hanguel.js를 주제로 처음 작성한 wiki)
 
 
