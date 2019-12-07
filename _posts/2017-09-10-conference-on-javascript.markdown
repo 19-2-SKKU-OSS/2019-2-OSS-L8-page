@@ -25,7 +25,7 @@ tags: [hanguel.js, free python game] # add tag
 ## **2. Free python games**
 
 
-#### [Free python games](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L8/wiki/free-python-games)
+#### [Free python games ](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L8/wiki/free-python-games)
 
 
 #### * 두번째로 결정된 주제
