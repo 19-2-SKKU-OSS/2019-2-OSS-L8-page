@@ -3,13 +3,11 @@ layout: post
 title: Jekyll theme을 이용한 정적페이지 제작
 date: 2019-12-03 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: workflow.jpg # Add image post (optional)
+img: jekyll.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Jekyll theme, static_page] # add tag
 ---
 
-
-![jekyll](./assets/img/jekyll.png)
 
 #### Jekyll theme을 이용한 정적페이지 제작을 통해 깃허브 활용과 정적페이지 제작 과정을 익힐 수 있게 하고 HTML, Markdown 등의 마크업 언어로 글을 작성하며 원하는 페이지를 만들수 있습니다.
 
