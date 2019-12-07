@@ -17,6 +17,8 @@ tags: [Jekyll theme, static_page] # add tag
 #### Jekyll은 개인, 프로젝트 조직을 위한 간단한 정적 사이트 생성기입니다. GitHub의 공동 설립자인 Tom Preston-Werner가 루비로 작성했으며 오픈 소스 MIT 라이센스에 따라 배포됩니다.
 
 # **정적 페이지(Static page)**
+![markdown]({{site.baseurl}}/assets/img/staticpage.png)
+
 #### 서버에 미리 저장된 파일을 사용자의 요청에 따라 그대로 전달되는 페이지.
 
 # **마크다운 언어(Markdown)**
