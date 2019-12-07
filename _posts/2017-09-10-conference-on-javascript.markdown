@@ -13,6 +13,7 @@ tags: [hanguel.js, free python game] # add tag
 #### -Free python games
 
 ## **Hanguel.js**
+![markdown]({{site.baseurl}}/assets/img/hanguel.png)
 
 #### 처음 하기로 계획했던 주제
 #### 새로운 기능, 함수 추가를 위해 코드를 본 결과 코드가 너무 복잡하여 손 대기 어려운 문제 발생
