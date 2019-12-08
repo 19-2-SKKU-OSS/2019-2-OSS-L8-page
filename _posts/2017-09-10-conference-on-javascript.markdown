@@ -8,8 +8,8 @@ tags: [hanguel.js, free_python_game] # add tag
 ---
 
 #  **선정한 주제**
-#### * 1. Hanguel.js
-#### * 2. Free python games
+####  1. Hanguel.js
+####  2. Free python games
 
 ##  **1. Hanguel.js**
 
