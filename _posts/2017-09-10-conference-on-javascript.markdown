@@ -7,11 +7,11 @@ img: content.png # Add image post (optional)
 tags: [hanguel.js, free_python_game] # add tag
 ---
 
-# - **선정한 주제**
+#  **선정한 주제**
 #### * 1. Hanguel.js
 #### * 2. Free python games
 
-## - **1. Hanguel.js**
+##  **1. Hanguel.js**
 
 
 ####   [Hanguel.js wiki](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L8/wiki/hangul.js)
@@ -22,7 +22,7 @@ tags: [hanguel.js, free_python_game] # add tag
 ####    * 새로 추가할 수 있는 기능이 별로 없어보임
 ####    * Hanguel.js 라는 주제로 활동을 하기에는 무리가 있어보여 다른 주제들을 찾아봄
 
-## - **2. Free python games**
+##  **2. Free python games**
 
 
 ####   [Free_python_games wiki](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L8/wiki/free-python-games)
