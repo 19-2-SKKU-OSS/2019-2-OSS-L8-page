@@ -9,7 +9,6 @@ tags: [Hanguel.js] # add tag
 ---
 
 # **1. hanguel.js 주석 수정**
-### - 프로젝트 목적
 hangul.js 코드 중 아래와 같이 주석이 제대로 적혀있는 부분이 있는 반면 그렇지 못한 부분도 많아 주석들을 정리하여 적기로 하였습니다.
 
 ![hanguel_1]({{site.baseurl}}/assets/img/hanguel_1.png)
