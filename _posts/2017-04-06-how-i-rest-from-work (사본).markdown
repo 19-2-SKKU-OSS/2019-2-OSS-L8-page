@@ -53,5 +53,5 @@ tags: [Free python games, Snake]
 ![snake_8]({{site.baseurl}}/assets/img/snake_8.png)
 - issue에 새로운 기능에 대한 설명 추가
 
-![snake_8]({{site.baseurl}}/assets/img/snake_8.png)
+![snake_9]({{site.baseurl}}/assets/img/snake_8.png)
 - pull request에 수정한 코드 추가
