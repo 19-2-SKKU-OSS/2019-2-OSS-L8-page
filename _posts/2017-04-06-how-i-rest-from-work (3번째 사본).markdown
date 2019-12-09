@@ -10,7 +10,7 @@ tags: [Free python game, Baseball]
 
 # Free python games - Baseball
 
-## 기존 게임에 존재하지 않던 숫자야구 게임을 제작함.
+## 기존 게임에 존재하지 않던 숫자야구 게임을 제작
 
 ![baseball]({{site.baseurl}}/assets/img/baseball.png)
 
