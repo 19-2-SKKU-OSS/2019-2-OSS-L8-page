@@ -33,7 +33,9 @@ hangul.js 코드 중 아래와 같이 주석이 제대로 적혀있는 부분이
 ![hanguel_6]({{site.baseurl}}/assets/img/hanguel_6.png)
 
 - 바뀐 디자인 테스트 페이지 (기능 test 전)
+
 ![hanguel_7]({{site.baseurl}}/assets/img/hanguel_7.png)
 
 - 바뀐 디자인 테스트 페이지 (기능 test 후)
+
 ![hanguel_8]({{site.baseurl}}/assets/img/hanguel_8.png)
