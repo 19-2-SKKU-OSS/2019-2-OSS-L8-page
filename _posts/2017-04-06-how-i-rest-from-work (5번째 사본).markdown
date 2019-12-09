@@ -22,7 +22,7 @@ hangul.js 코드 중 아래와 같이 주석이 제대로 적혀있는 부분이
 ### Issue/ Pull request
 - https://github.com/e-/Hangul.js/issues/20
 - https://github.com/e-/Hangul.js/pull/21 
-원 프로젝트에 주석 수정에 대한 제안을 ISSUE로 먼저 남긴 후 hangul.js에 대한 수정사항을 최종적으로 pull request 하였습니다.
+- 원 프로젝트에 주석 수정에 대한 제안을 ISSUE로 먼저 남긴 후 hangul.js에 대한 수정사항을 최종적으로 pull request 하였습니다.
 
 ![hanguel_3]({{site.baseurl}}/assets/img/hanguel_3.png)![hanguel_4]({{site.baseurl}}/assets/img/hanguel_4.png)
 
