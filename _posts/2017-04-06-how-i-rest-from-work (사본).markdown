@@ -15,7 +15,7 @@ tags: [Free python games, Snake]
 
 ## **1. Trash 기능 추가**
 
--기능 추가 전 snake.py 작동 화면            -기능 추가 이후 snake.py 작동 화면
+- 기능 추가 전 snake.py 작동 화면            - 기능 추가 이후 snake.py 작동 화면
 ![snake_1]({{site.baseurl}}/assets/img/snake_1.png)![snake_2]({{site.baseurl}}/assets/img/snake_2.png)
 
 ## Trash 추가 코드
@@ -47,7 +47,7 @@ tags: [Free python games, Snake]
 
 - Pull request : (https://github.com/grantjenks/free-python-games/pull/26)
 - Issue : (https://github.com/grantjenks/free-python-games/issues/25)
-Issue에 추가한 기능에 대한 설명을 적어두었고, pull request를 통해 수정된 코드를 제공했습니다.
+- Issue에 추가한 기능에 대한 설명을 적어두었고, pull request를 통해 수정된 코드를 제공했습니다.
 
 ![snake_8]({{site.baseurl}}/assets/img/snake_8.png)
 - issue에 새로운 기능에 대한 설명 추가
