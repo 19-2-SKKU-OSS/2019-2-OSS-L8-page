@@ -8,7 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags: [Free python games, Snake]
 ---
 
-# Snake.py 게임에서 기능 추가
+# **Snake.py 게임에서 기능 추가**
 
 #### 추가한 기능 내용:
 원래 snake.py 게임은 초록색 food를 먹으면 snake 가 하나씩 커지는 게임이었습니다. 랜덤으로 생기는 빨간색 점 (Trash)를 추가하여 만약 snake가 Trash를 먹을 경우 몸에 길이가 하나씩 줄어 들도록 하는 기능을 추가하였습니다. 또한 원래는 벽에 부딪치거나 snake 자기 자신의 몸과 만날 경우 그 즉시 게임이 종료 되었습니다. 게임이 종료 되기 전 ‘Game End’ 를 프린트 하도록 하는 기능을 추가하였습니다.
