@@ -21,13 +21,13 @@ tags: [Free python games, Memory]
 
 **Memory.py 파일 수정**
 ![memory_2]({{site.baseurl}}/assets/img/memory_2.png)
-<숫자가 나타나지 않도록 하는 추가 코드 사진>
+(숫자가 나타나지 않도록 하는 추가 코드 사진)
 
 **파일 추가**
 ![memory_3]({{site.baseurl}}/assets/img/memory_3.png)
 <사진을 랜덤으로 선택하는 코드 사진>
 
-<수정 후 플레이 사진> - 세가지 이미지 중 하나가 랜덤으로 나타남
+(수정 후 플레이 사진) - 세가지 이미지 중 하나가 랜덤으로 나타남
 
 ![memory_4]({{site.baseurl}}/assets/img/memory_4.png)![memory_5]({{site.baseurl}}/assets/img/memory_5.png)![memory_6]({{site.baseurl}}/assets/img/memory_6.png)
 
