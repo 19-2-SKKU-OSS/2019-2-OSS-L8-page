@@ -23,3 +23,5 @@ tags: [Issue, free-python-game] # add tag
 
 ## **Free python game의 원래 repository에도 직접 Issue를 올려 다른 contributor들과 소통**
 ![issue_2]({{site.baseurl}}/assets/img/issue_2.png)
+
+- [Issues](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L8/issues)
