@@ -13,7 +13,7 @@ hangul.js 코드 중 아래와 같이 주석이 제대로 적혀있는 부분이
 
 ![hanguel_1]({{site.baseurl}}/assets/img/hanguel_1.png)
 
-### - hangul.js 파일 주석 수정 
+### hangul.js 파일 주석 수정 
 주석이 부족한 부분에 아래와 같이 주석을 추가하였습니다. 한글에 대한 지식이 필요한 프로젝트라 다른 프로젝트의 코드들에 비해 주석을 자세하게 적었습니다.
 
 ![hanguel_2]({{site.baseurl}}/assets/img/hanguel_2.png)
