@@ -9,6 +9,7 @@ tags: [Wiki, Hanguel.js, Free python game] # add tag
 ---
 
 저희 조가 선정한 2개의 주제에 대해 활동방법, 활동 계획 정리, 팀원 역할 등을 위키에 기록하여 프로젝트를 소개하였습니다.
+
 ![wiki]({{site.baseurl}}/assets/img/wiki.png)
 
 # **위키 링크**
