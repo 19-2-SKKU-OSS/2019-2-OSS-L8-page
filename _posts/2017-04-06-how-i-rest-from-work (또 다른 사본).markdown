@@ -18,11 +18,11 @@ tags: [Free python games, Memory]
 ![memory_1]({{site.baseurl}}/assets/img/memory_1.png)
 - (수정 전 예시 사진) 정답을 이미 맞췄는데도 숫자가 그림 위에 나타남
 
-**Memory.py 파일 수정**
+## **Memory.py 파일 수정**
 ![memory_2]({{site.baseurl}}/assets/img/memory_2.png)
 - (숫자가 나타나지 않도록 하는 추가 코드 사진)
 
-**파일 추가**
+## **파일 추가**
 ![memory_3]({{site.baseurl}}/assets/img/memory_3.png)
 - (사진을 랜덤으로 선택하는 코드 사진)
 
@@ -38,4 +38,5 @@ tags: [Free python games, Memory]
 ![memory_7]({{site.baseurl}}/assets/img/memory_7.png)![memory_8]({{site.baseurl}}/assets/img/memory_8.png)
 
 - 그런데 해당 pull request의 automatic 체크 사항 중 오류가 발생하였습니다. 해당 오류는 낮은 버전의 파이썬에서는 프로그램이 제대로 작동하지 않을 수 있다는 오류로 팀에서 해결할 문제가 아니라 원 프로젝트를 담당하는 사람이 결정해야 할 문제라고 판단하여 다른 조치는 취하지 않았습니다.
+
 ![memory_9]({{site.baseurl}}/assets/img/memory_9.png)
