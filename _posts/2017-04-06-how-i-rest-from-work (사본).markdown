@@ -22,7 +22,7 @@ tags: [Free python games, Snake]
 
 ![snake_3]({{site.baseurl}}/assets/img/snake_3.png)
 
-코드 설명 : trash 라는 백터 생성 후, snake 와 trash 가 만날 경우 snake에 길이를 1씩 줄인 뒤 trash 위치를 랜덤으로 배치하게 했습니다. 만약 snake 길이가 1일 경우에 trash를 먹으면 게임이 종료 되도록 했습니다.
+코드 설명 :  trash 라는 백터 생성 후, snake 와 trash 가 만날 경우 snake에 길이를 1씩 줄인 뒤 trash 위치를 랜덤으로 배치하게 했습니다. 만약 snake 길이가 1일 경우에 trash를 먹으면 게임이 종료 되도록 했습니다.
 
 ## **2. 종료시 'Game End' 출력**
 (밑에 예시 사진은 초록색 food를 2개 먹은 뒤 벽에 부딪쳐 게임이 끝나게 했습니다.)
@@ -45,8 +45,8 @@ tags: [Free python games, Snake]
 
 ## **3. 원래 프로젝트에 pull request 와 issue 등록**
 
-Pull request : (https://github.com/grantjenks/free-python-games/pull/26)
-Issue : (https://github.com/grantjenks/free-python-games/issues/25)
+- Pull request : (https://github.com/grantjenks/free-python-games/pull/26)
+- Issue : (https://github.com/grantjenks/free-python-games/issues/25)
 Issue에 추가한 기능에 대한 설명을 적어두었고, pull request를 통해 수정된 코드를 제공했습니다.
 
 ![snake_8]({{site.baseurl}}/assets/img/snake_8.png)
