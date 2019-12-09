@@ -17,3 +17,5 @@ tags: [Pull request, free-python-game] # add tag
 
 ## **원래 project에도 Pull-request를 올린 모습**
 ![PR_3]({{site.baseurl}}/assets/img/PR_3.png)
+
+- [Pull-request](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L8/pulls)
