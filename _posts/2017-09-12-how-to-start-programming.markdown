@@ -21,5 +21,5 @@ tags: [Issue, free-python-game] # add tag
 ## **Closed 상태인 Issue**
 ![closed]({{site.baseurl}}/assets/img/closed_issue.png)
 
-## **Free python game의 원래 repository에도 직접 Issue를 올린 모습**
+## **Free python game의 원래 repository에도 직접 Issue를 올려 다른 contributor들과 소통**
 ![issue_2]({{site.baseurl}}/assets/img/issue_2.png)
