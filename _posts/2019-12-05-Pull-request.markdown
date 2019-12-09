@@ -13,7 +13,7 @@ tags: [Pull request, free-python-game] # add tag
 ![PR_1]({{site.baseurl}}/assets/img/PR_1.png)![PR_2]({{site.baseurl}}/assets/img/PR_2.png)
 
 ## **merged가 된 모습**
-![PR_3]({{site.baseurl}}/assets/img/PR_3.png)
+![PR_4]({{site.baseurl}}/assets/img/PR_4.png)
 
 ## **원래 project에도 Pull-request를 올린 모습**
 ![PR_3]({{site.baseurl}}/assets/img/PR_3.png)
