@@ -22,4 +22,4 @@ tags: [Issue, free-python-game] # add tag
 ![closed]({{site.baseurl}}/assets/img/closed_issue.png)
 
 ## **Free python game의 원래 repository에도 직접 Issue를 올린 모습**
-![open]({{site.baseurl}}/assets/img/open_issue.png)
+![issue_2]({{site.baseurl}}/assets/img/issue_2.png)
