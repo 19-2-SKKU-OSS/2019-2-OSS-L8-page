@@ -38,8 +38,9 @@ tags: [Free python games, Snake]
 ## 'Game End' 코드 추가
 ![snake_6]({{site.baseurl}}/assets/img/snake_6.png)
 - snake가 자기 자신과 벽을 만났을 때와 종료 되는 코드에 ‘Game End’ 추가한 것입니다.
+
 ![snake_7]({{site.baseurl}}/assets/img/snake_7.png)
-- snake 길이가 1인 경우에서 trash 를 먹었을 때 종료 되는 코드에 ‘Game End’ 추가한 것입니다.
+- snake 길이가 1인 경우에서 trash를 먹었을 때 종료 되는 코드에 ‘Game End’ 추가한 것입니다.
 
 
 
