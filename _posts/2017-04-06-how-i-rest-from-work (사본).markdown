@@ -15,7 +15,7 @@ tags: [Free python games, Snake]
 
 ## **1. Trash 기능 추가**
 
-#### - 기능 추가 전 snake.py 작동 화면           - 기능 추가 이후 snake.py 작동 화면
+#### 기능 추가 전 snake.py 작동 화면           기능 추가 후 snake.py 작동 화면
 ![snake_1]({{site.baseurl}}/assets/img/snake_1.png)     ![snake_2]({{site.baseurl}}/assets/img/snake_2.png)
 
 ## Trash 추가 코드
