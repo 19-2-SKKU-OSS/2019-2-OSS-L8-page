@@ -3,7 +3,7 @@ layout: post
 title: Free python games - Baseball
 date: 2019-12-05 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: baseball_logo.png # Add image post (optional)
+img: new_logo.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Free python game, Baseball]
 ---
